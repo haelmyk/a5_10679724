@@ -1,0 +1,6 @@
+  IdNumber	Name	Age	Gender	Score	Grade
+0 1111		ama	12	female	68	C
+1 2222		john	14	male	75	B
+2 3333		joe	15	male	59	D
+3 4444		joan	13	female	87	A
+4 5555		kojo	14	male	55	D
